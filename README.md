@@ -1,2 +1,2 @@
-# vk-test
-Проект для второго тестового тура на стажировку в вк
+# giphy
+Created with CodeSandbox
